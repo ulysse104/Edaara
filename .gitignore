@@ -1,0 +1,21 @@
+ 
+ 
+# Python
+*.pyc
+__pycache__/
+
+# Environnements virtuels
+venv/
+
+# Fichiers de configuration locaux
+*.env
+
+# Database
+db.sqlite3
+
+# Django migrations
+*/migrations/*
+
+# IDEs
+.vscode/
+.idea/
